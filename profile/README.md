@@ -17,5 +17,5 @@ Some projects may prefer to use interfaces that are not tied to a framework or p
 
 ## How can I contribute
 
-1. Submit a [request for membership](https://github.com/orgs/php-contrib/discussions/categories/membership-request). Create a repository with your recommendation or interface.
-1. Start a [discussion](https://github.com/orgs/php-contrib/discussions).
+- Submit a [request for membership](https://github.com/orgs/php-contrib/discussions/categories/membership-request). Create a repository with your recommendation or interface.
+- Start a [discussion](https://github.com/orgs/php-contrib/discussions).
