@@ -4,7 +4,7 @@ Welcome to PHP Contrib!
 
 PHP Contrib was created to provide a platform to discover and contribute community-driven recommendations and interfaces.
 
-PHP Contrib was not created as a replacement but rather a complement to the important work of [PHP-FIG](https://www.php-fig.org/).
+PHP Contrib was created as a complement to the important work of [PHP-FIG](https://www.php-fig.org/).
 
 ## How does PHP Contrib complement PHP-FIG?
 
